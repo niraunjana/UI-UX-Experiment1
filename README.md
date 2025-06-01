@@ -38,7 +38,7 @@ To explore the fundamentals of User Interface (UI) and User Experience (UX) desi
 
 ## Output:
 
-UIUX_EX_01.pdf
+"C:\Users\SEC\Downloads\UIUX_EX_01.pdf"
 
 ## Result:
 
