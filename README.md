@@ -38,6 +38,13 @@ To explore the fundamentals of User Interface (UI) and User Experience (UX) desi
 
 ## Output:
 
+```
+Created By   : Niraunjana Gayathri G R
+Register No. : 212222230096
+
+```
+
+
 [UIUX_EX_01.pdf](https://github.com/user-attachments/files/20539045/UIUX_EX_01.pdf)
 
 ## Result:
